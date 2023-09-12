@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning **Everythings**
 
 - 📫 How to reach me **bappy15-5656@diu.edu.bd**
-
-[![](https://visitcount.itsvg.in/api?id=mdbappy21&icon=0&color=12)](https://visitcount.itsvg.in)
+<br><br>
+  <img src="https://visitcount.itsvg.in/api?id=mdbappy21&icon=0&color=12" alt="Visit Count">
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
@@ -27,9 +27,9 @@
 </p>
 
 ## 🏆 GitHub Trophies :
-![](https://github-profile-trophy.vercel.app/?username=mdbappy21&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
+<img src="https://github-profile-trophy.vercel.app/?username=mdbappy21&theme=onestar&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Profile Trophy">
 
-# <img src="https://www.pinclipart.com/picdir/middle/568-5687753_statistic-clipart.png" alt="" style="height:25px;width:25px"/> GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mdbappy21&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=mdbappy21&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdbappy21&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## 📈 GitHub Stats :
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mdbappy21&theme=midnight-purple&hide_show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mdbappy21&theme=midnight-purple" align="center"  alt="mdbappy21" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdbappy21&theme=midnight-purple&layout=compact" alt="Top Languages" /></p>
