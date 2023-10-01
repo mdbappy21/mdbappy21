@@ -30,6 +30,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=mdbappy21&theme=onestar&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Profile Trophy">
 
 ## 📈 GitHub Stats :
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mdbappy21&theme=midnight-purple&hide_show_icons=true&locale=en" alt="GitHub Stats" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mdbappy21&theme=midnight-purple" align="center"  alt="mdbappy21" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdbappy21&theme=midnight-purple&layout=compact" alt="Top Languages" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mdbappy21&theme=great-gatsby&hide_show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mdbappy21&theme=great-gatsby" align="center"  alt="Streak" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdbappy21&theme=great-gatsby" alt="Top Languages" /></p>
