@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **mdbappy1350@gmail.com**
 <br><br>
-  <img src="https://visitcount.itsvg.in/api?id=mdbappy21&icon=0&color=12" alt="Visit Count">
+  <a href="https://visitorbadge.io/status?path=mdbappy21"><img src="https://api.visitorbadge.io/api/visitors?path=mdbappy21&label=%F0%9F%91%A5%20Profile%20Views&labelColor=%23d9e3f0&countColor=%23000000" /></a>
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
